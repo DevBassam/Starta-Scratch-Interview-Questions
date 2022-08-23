@@ -1,3 +1,4 @@
+-- Problem ID: 10288
 WITH results
 AS (
     SELECT sum(CASE WHEN search_results_position >= 0
