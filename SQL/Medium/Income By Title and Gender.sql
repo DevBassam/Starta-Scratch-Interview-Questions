@@ -1,3 +1,4 @@
+-- Problem ID: 10077
 SELECT se.employee_title,
     se.sex,
     AVG(se.salary + sb.total_bonus) AS total_compensation
