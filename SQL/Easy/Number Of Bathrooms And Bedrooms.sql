@@ -1,3 +1,4 @@
+-- Problem ID: 9622
 SELECT city,
 	property_type,
 	avg(bathrooms),
