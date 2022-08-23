@@ -1,3 +1,4 @@
+-- Problem ID: 10308
 SELECT max(salary) - (
 		SELECT max(salary)
 		FROM db_employee AS e
