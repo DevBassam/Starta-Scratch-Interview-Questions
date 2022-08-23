@@ -1,3 +1,4 @@
+-- Problem ID: 10061
 SELECT fe.location,
     avg(fh.popularity)
 FROM facebook_employees AS fe
