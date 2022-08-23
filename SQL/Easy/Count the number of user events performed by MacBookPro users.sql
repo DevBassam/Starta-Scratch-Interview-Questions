@@ -1,3 +1,4 @@
+-- Problem ID: 9653
 SELECT event_name, COUNT(*) 
 FROM playbook_events
 WHERE device = 'macbook pro'
