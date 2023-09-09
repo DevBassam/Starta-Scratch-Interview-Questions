@@ -1,2 +1,2 @@
 # Starta-Scratch-Interview-Questions
-Solutions of interview questions on StartaScratch platform (SQL,Python,R)
+Solutions of interview questions on StartaScratch platform (SQL,Python)
